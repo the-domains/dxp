@@ -1,0 +1,23 @@
+name: dxp
+favicon: null
+layout_spectrum: 0.5678784686606377
+typography_spectrum: 0.593640728155151
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3941657410468906
+  lightness: 0.7265525844413787
+  saturation: 0.9014777792617679
+  rhythmicContrast: 0.5293534912634641
+purpose: []
